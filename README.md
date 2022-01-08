@@ -5,7 +5,7 @@ Tired of adds while downlading youtube audio and video, using third party websit
 Then this is one of the best way to download video and audio from youtube. 
 The script uses pytube python package to download video/audio from youtube, 
 
-<a href="https://colab.research.google.com/drive/1la5FIXF37lQ-hVxMa3PQn4mIaA71VjSL"
+<a href="https://colab.research.google.com/drive/1la5FIXF37lQ-hVxMa3PQn4mIaA71VjSL?usp=sharing"
    target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Tutorial
