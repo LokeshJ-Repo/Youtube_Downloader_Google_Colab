@@ -29,7 +29,10 @@ Option 2 : Download video/Audio to google drive and provide a link (faster downl
 2. Avoid advertisements while downloading YT video/Audio from third party websites.
 3. Keeping copy of files in google colab.
 
-
+#Screenshots
+![Colab Page](https://github.com/LokeshJ-Repo/Youtube_Downloader_Google_Colab/blob/main/Images/1.Screenshot.png)
+![Direct_Download](https://github.com/LokeshJ-Repo/Youtube_Downloader_Google_Colab/blob/main/Images/2.Screenshot.png)
+![Google_Drive_Download](https://github.com/LokeshJ-Repo/Youtube_Downloader_Google_Colab/blob/main/Images/3.Screenshot.png)
 
 ### Frequently Asked Questions
 
